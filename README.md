@@ -7,9 +7,6 @@ This folder contains all relevant files for the project focused on modeling and 
 ### aux_files/
 Contains auxiliary functions used for calibration and optimization. Includes kernel definitions, objective functions, and helper tools for model fitting.
 
-### data/
-Includes datasets used in the analysis, such as option prices, implied volatilities, underlying prices, and intermediate results.
-
 ## Main Files
 
 ### part2
